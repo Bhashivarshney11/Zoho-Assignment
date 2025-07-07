@@ -1,6 +1,6 @@
-# 📚 Zoho UI Assignment (ReactJS)
+# 📚 Zoro UI Assignment (ReactJS)
 
-This is a UI replication task built using **ReactJS**, based on the reference image provided as part of the Zoho selection process.
+This is a UI replication task built using **ReactJS**, based on the reference image provided as part of the Zoro selection process.
 
 ## 🧩 Features
 
@@ -21,7 +21,7 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/Bhashivarshney11/zoho-assignment.git
-cd zoho-assignment
+cd zoro-assignment
 npm install
 npm start
 
